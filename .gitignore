@@ -23,3 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 .eslintcache
+.firebaserc
+.github/
+firebase.json
+report.20201224.145656.36128.0.001.json
